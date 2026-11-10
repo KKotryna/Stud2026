@@ -1,0 +1,6 @@
+*.bam
+*.sam
+*.gz
+*.fasta
+references/
+inputs/
